@@ -13,7 +13,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 2. MARCO TEÓRICO 
 
-<img src="imagenes/mallas.png">
+<img src="imagenes/malla.png">
 
 #### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
