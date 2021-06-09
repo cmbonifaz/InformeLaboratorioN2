@@ -13,6 +13,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 2. MARCO TEÓRICO 
 
+#### 3. EXPLICACIÓN DEL PROCEDIMIENTO
+
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR 
 
 #### 5. VIDEO
