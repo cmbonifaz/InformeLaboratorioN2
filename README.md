@@ -24,3 +24,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 #### 6. CONCLUSIONES 
 
 #### 7. BIBLIOGRAFÍA
+
+Salazar, A. (2021). ANÁLISIS POR NODOS Y MALLAS. Retrieved 9 June 2021, from http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
+
+Ley de Kirchhoff: Análisis de mallas. - HETPRO/TUTORIALES. (2018). Retrieved 9 June 2021, from https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
