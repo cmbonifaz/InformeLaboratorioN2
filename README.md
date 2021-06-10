@@ -49,7 +49,7 @@ Resolviendo el sistema de Ecuaciones obtenemos
 
 Mediante el simulador Tinkercad calculamos los resultamos simulados:
 
-<img src="imagenes/Muestra" width="600">
+<img src="imagenes/Muestra.png" width="600">
 
 #### 5. VIDEO
 
