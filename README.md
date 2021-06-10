@@ -33,7 +33,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR 
 El Flujo de la corriente va a tomar este sentido
 
-![flujo](https://user-images.githubusercontent.com/84586968/121451401-23881c00-c963-11eb-9a3e-7e3468012e9a.png)
+![flujo](https://user-images.githubusercontent.com/84586968/121452083-6a2a4600-c964-11eb-8ec1-4e8d9f7ed2bb.png)
 
 Encontramos la corriente aplicando la ley de voltajes de Kirchhoff
 
