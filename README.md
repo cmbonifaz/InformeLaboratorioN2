@@ -51,6 +51,10 @@ Mediante el simulador Tinkercad calculamos los resultamos simulados:
 
 <img src="imagenes/Muestra.png" width="600">
 
+Calculo de Error
+
+
+
 #### 5. VIDEO
 
 #### 6. CONCLUSIONES 
