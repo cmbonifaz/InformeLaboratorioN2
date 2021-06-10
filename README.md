@@ -15,7 +15,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 -Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
 
--
+-Identificar la corriente que fluye en cada respectiva malla
 
 #### 2. MARCO TEÓRICO 
 
