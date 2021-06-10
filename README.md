@@ -37,8 +37,7 @@ El Flujo de la corriente va a tomar este sentido
 
 Encontramos la corriente aplicando la ley de voltajes de Kirchhoff
 
-![mallas](https://user-images.githubusercontent.com/84586968/121451674-9e513700-c963-11eb-968c-a8a77e18fc97.png)
-
+![mallas](https://user-images.githubusercontent.com/84586968/121451776-c345aa00-c963-11eb-8644-46c5f0ebbd4a.png)
 #### 5. VIDEO
 
 #### 6. CONCLUSIONES 
