@@ -31,8 +31,11 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 ![tabla](https://user-images.githubusercontent.com/84586968/121449753-09990a00-c960-11eb-991c-5f74692ec33f.png)
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR 
+El Flujo de la corriente va a tomar este sentido
 
 ![flujo](https://user-images.githubusercontent.com/84586968/121451401-23881c00-c963-11eb-9a3e-7e3468012e9a.png)
+
+Encontramos la corriente aplicando la ley de voltajes de Kirchhoff
 
 #### 5. VIDEO
 
