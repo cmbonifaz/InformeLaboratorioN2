@@ -61,6 +61,8 @@ Calculo de Error
 
 #### 5. VIDEO
 
+https://www.youtube.com/watch?v=GxwuCZ3N0wo
+
 #### 6. CONCLUSIONES 
 
 -Por el método de resolucion de mallas podemos resolver circuitos planos complejos por medio de un sistema de ecuaciones, simplificando asi en muchos casos los procesos.
