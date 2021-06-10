@@ -20,6 +20,11 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 ![materiales](https://user-images.githubusercontent.com/84586968/121449049-993db900-c95e-11eb-907d-aba4af4aab30.png)
 
+3.2 Implemente el circuito que se presenta en la figura 2.1.
+
+![DCircuito](https://user-images.githubusercontent.com/84586968/121449055-9b077c80-c95e-11eb-9498-f4293c17eb78.png)
+
+3.3
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR 
 
 #### 5. VIDEO
