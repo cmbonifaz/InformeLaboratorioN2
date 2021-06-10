@@ -38,6 +38,15 @@ El Flujo de la corriente va a tomar este sentido
 Encontramos la corriente aplicando la ley de voltajes de Kirchhoff
 
 ![mallas](https://user-images.githubusercontent.com/84586968/121451776-c345aa00-c963-11eb-8644-46c5f0ebbd4a.png)
+
+Se armo un sistema de ecuaciones
+
+![ECU](https://user-images.githubusercontent.com/84586968/121452383-f3417d00-c964-11eb-8a6b-b83a09d35fb1.png)
+
+Resolviendo el sistema de Ecuaciones obtenemos
+
+![Resultado](https://user-images.githubusercontent.com/84586968/121452387-f472aa00-c964-11eb-9913-1dfe45848fcb.png)
+
 #### 5. VIDEO
 
 #### 6. CONCLUSIONES 
