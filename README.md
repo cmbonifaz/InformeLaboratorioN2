@@ -15,6 +15,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 -Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
 
+-
+
 #### 2. MARCO TEÓRICO 
 
 <img src="imagenes/malla.png">
@@ -68,6 +70,9 @@ https://www.youtube.com/watch?v=GxwuCZ3N0wo
 -Por el método de resolucion de mallas podemos resolver circuitos planos complejos por medio de un sistema de ecuaciones, simplificando asi en muchos casos los procesos.
 
 -La ley de nodos está relacionada en la ley de la conservación de la carga así como la ley de mallas está relacionada con la ley de la conservación de la energía.
+
+-
+
 
 #### 7. BIBLIOGRAFÍA
 
