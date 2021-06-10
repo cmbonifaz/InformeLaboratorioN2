@@ -23,7 +23,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 3.2 Implemente el circuito que se presenta en la figura 2.1.
 
 ![DCircuito](https://user-images.githubusercontent.com/84586968/121449055-9b077c80-c95e-11eb-9498-f4293c17eb78.png)
-<img src="imagenes/SCircuito.png" width="500">
+<img src="imagenes/SCircuito.png" width="600">
 
 
 3.3 Compare los valores de la tabla y realice sus conclusiones
