@@ -32,6 +32,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR 
 
+![flujo](https://user-images.githubusercontent.com/84586968/121451401-23881c00-c963-11eb-9a3e-7e3468012e9a.png)
+
 #### 5. VIDEO
 
 #### 6. CONCLUSIONES 
