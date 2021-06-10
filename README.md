@@ -61,6 +61,8 @@ Calculo de Error
 
 #### 6. CONCLUSIONES 
 
+-Por el método de resolucion de mallas podemos resolver circuitos planos complejos por medio de un sistema de ecuaciones, simplificando asi en muchos casos los procesos.
+
 #### 7. BIBLIOGRAFÍA
 
 Salazar, A. (2021). ANÁLISIS POR NODOS Y MALLAS. Retrieved 9 June 2021, from http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
