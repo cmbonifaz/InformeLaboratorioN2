@@ -53,7 +53,7 @@ Mediante el simulador Tinkercad calculamos los resultamos simulados:
 
 Calculo de Error
 
-
+![error](https://user-images.githubusercontent.com/84586968/121453237-71eaea00-c966-11eb-8f89-e8eedbd87244.png)
 
 #### 5. VIDEO
 
