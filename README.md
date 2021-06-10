@@ -17,6 +17,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 3.1 El equipo requerido y utilizado para la elaboracion del circuito es el siguiente:
+
 ![materiales](https://user-images.githubusercontent.com/84586968/121449049-993db900-c95e-11eb-907d-aba4af4aab30.png)
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR 
