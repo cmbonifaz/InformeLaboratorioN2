@@ -11,6 +11,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 1. OBJETIVOS 
 
+-Comprender y analizar el concepto de malla y sus caracteristicas, asi como tambien su metodo de solucion para resolver circuitos planos.
+
 #### 2. MARCO TEÓRICO 
 
 <img src="imagenes/malla.png">
