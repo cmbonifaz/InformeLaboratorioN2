@@ -28,6 +28,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 3.3 Compare los valores de la tabla y realice sus conclusiones
 
+![tabla](https://user-images.githubusercontent.com/84586968/121449753-09990a00-c960-11eb-991c-5f74692ec33f.png)
+
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR 
 
 #### 5. VIDEO
