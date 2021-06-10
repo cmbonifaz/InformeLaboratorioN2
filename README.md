@@ -26,7 +26,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 ![SCircuito](https://user-images.githubusercontent.com/84586968/121449058-9ba01300-c95e-11eb-803e-7c01f8a43023.png)
 
 
-3.3
+3.3 Compare los valores de la tabla y realice sus conclusiones
+
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR 
 
 #### 5. VIDEO
