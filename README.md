@@ -47,6 +47,10 @@ Resolviendo el sistema de Ecuaciones obtenemos
 
 ![Resultado](https://user-images.githubusercontent.com/84586968/121452387-f472aa00-c964-11eb-9913-1dfe45848fcb.png)
 
+Mediante el simulador Tinkercad calculamos los resultamos simulados:
+
+<img src="imagenes/Muestra" width="600">
+
 #### 5. VIDEO
 
 #### 6. CONCLUSIONES 
