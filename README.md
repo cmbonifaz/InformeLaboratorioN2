@@ -16,6 +16,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 <img src="imagenes/malla.png">
 
 #### 3. EXPLICACIÓN DEL PROCEDIMIENTO
+3.1 El equipo requerido y utilizado para la elaboracion del circuito es el siguiente:
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR 
 
