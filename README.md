@@ -31,8 +31,11 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 ![DCircuito](https://user-images.githubusercontent.com/84586968/121449055-9b077c80-c95e-11eb-9498-f4293c17eb78.png)
 <img src="imagenes/SCircuito.png" width="600">
 
+3.3 Colocar amperimetros en cada una de las mallas del circuito y anotar las mediciones
 
-3.3 Compare los valores de la tabla y realice sus conclusiones
+<img src="imagenes/Muestra.png" width="600">
+
+3.4 Compare los valores de la tabla y realice sus conclusiones
 
 ![tabla](https://user-images.githubusercontent.com/84586968/121449753-09990a00-c960-11eb-991c-5f74692ec33f.png)
 
