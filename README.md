@@ -71,7 +71,7 @@ https://www.youtube.com/watch?v=GxwuCZ3N0wo
 
 -La ley de nodos está relacionada en la ley de la conservación de la carga así como la ley de mallas está relacionada con la ley de la conservación de la energía.
 
--Por el simulador se observo el comportamiento de la corriente de la 
+-En el simulador se comprobo como fluyen las correintes en las mallas
 
 
 #### 7. BIBLIOGRAFÍA
